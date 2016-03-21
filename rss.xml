@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jan Kaiponen]]></title>
+        <description><![CDATA[Jan Kaiponen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 07:23:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Helsinki-Vantaalla porisee laukkukaaos]]></title>
+            <description><![CDATA[<article><h1>Helsinki-Vantaalla porisee laukkukaaos</h1><p>Helsinki-Vantaan lentoaseman matkatavaran kuljetinjärjestelmässä esiintyy häiriöitä.</p><img src="http://images.kauppalehti.fi/http://content.kauppalehti.fi/news-images/2016/03/2016034598457.jpg"></article>]]></description>
+            <link>http://www.kauppalehti.fi/uutiset/helsinki-vantaalla-porisee-laukkukaaos/FGeeZurT</link>
+            <guid isPermaLink="false">ea035fd1-2254-43b1-bb36-78d9300d4b2d</guid>
+            <pubDate>Mon, 21 Mar 2016 07:22:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

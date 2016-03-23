@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Jan Kaiponen]]></title>
         <description><![CDATA[Jan Kaiponen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jan-kaiponen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 07:23:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 10:38:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jan-kaiponen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanilaisturistit hulluna ksylitoliin | Kauppalehti]]></title>
+            <description><![CDATA[<article><h1>Japanilaisturistit hulluna ksylitoliin | Kauppalehti</h1><p>Suomalaiset ksylitolituotteet viedään nyt käsistä. Turistien keskuudessa kesän hitiksi on muodostunut kaksi perisuomalaista keksintöä yhdistävä tuote.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb4eee6ece7dd41481b952aa05048d768d7a3386.jpg"></article>]]></description>
+            <link>http://m.kauppalehti.fi/uutiset/japanilaisturistit-hulluna-ksylitoliin/KTED9Fa5</link>
+            <guid isPermaLink="false">37c27f26-026a-40ef-98ec-d2b92b945324</guid>
+            <pubDate>Wed, 23 Mar 2016 10:38:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Helsinki-Vantaalla porisee laukkukaaos]]></title>
-            <description><![CDATA[<article><h1>Helsinki-Vantaalla porisee laukkukaaos</h1><p>Helsinki-Vantaan lentoaseman matkatavaran kuljetinjärjestelmässä esiintyy häiriöitä.</p><img src="http://images.kauppalehti.fi/http://content.kauppalehti.fi/news-images/2016/03/2016034598457.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Helsinki-Vantaalla porisee laukkukaaos</h1><p>Helsinki-Vantaan lentoaseman matkatavaran kuljetinjärjestelmässä esiintyy häiriöitä.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edb206b58a5bde10de6b859f35f1813c7ece5a20.jpg"></article>]]></description>
             <link>http://www.kauppalehti.fi/uutiset/helsinki-vantaalla-porisee-laukkukaaos/FGeeZurT</link>
             <guid isPermaLink="false">ea035fd1-2254-43b1-bb36-78d9300d4b2d</guid>
             <pubDate>Mon, 21 Mar 2016 07:22:39 GMT</pubDate>
